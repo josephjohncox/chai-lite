@@ -1,6 +1,6 @@
 {
   "name": "chai-lite",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Chai giving you some runtime headaches, you needs some low caffeine chai-lite",
   "main": "lib/chai-lite.js",
   "scripts": {
